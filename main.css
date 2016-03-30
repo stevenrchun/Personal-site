@@ -1,0 +1,246 @@
+html {
+    background-color: white;
+}
+
+body{
+    font-family: "Helvetica Neue", "Open Sans", sans-serif;
+    
+}
+
+#home img{
+    margin: 4rem;
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 4rem;
+    height: 8rem;
+    width: 7.511rem;
+    opacity: .6;
+    transition: color .2s;
+    transition: opacity 1s;
+    
+    
+}
+#home a:link{
+    text-decoration: none;
+    
+}
+
+#home a:visited{
+    text-decoration: none;
+    
+}
+#home img:hover{
+    text-decoration: none;
+    opacity: 1;
+    color: white;
+    
+}
+
+#home a:active{
+    text-decoration: none;
+}
+
+#landing.jumbotron {
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    background-image: url("https://dl.dropboxusercontent.com/s/b8gq2387ddbkx5k/24949575142_405c57b71d_k.jpg?dl=0");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+}
+
+#landing.jumbotron .container{
+    width: 100%;
+    text-align: center; 
+    font-family: "Helvetica Neue";
+    color: white;
+    padding-top: 25rem;
+    padding-bottom: 25rem;
+    background-color: rgba(231,76,60,0.8);
+}
+
+#landing.jumbotron h1{
+    margin: 0px;
+    font-size: 90px;
+}
+
+
+#landing.jumbotron a{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 4rem;
+    color: white;
+    opacity: .7;
+    transition: opacity 1s;
+    
+}
+
+#landing.jumbotron a:link{
+    text-decoration: none;
+    
+}
+
+#landing.jumbotron a:visited{
+    text-decoration: none;
+    
+}
+#landing.jumbotron a:hover{
+    text-decoration: none;
+    opacity: 1;
+    
+}
+
+#landing.jumbotron a:active{
+    text-decoration: none;
+}
+
+
+
+
+#landing.jumbotron p{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 4rem;
+    
+}
+
+.Me .container{
+    align-items: center;
+}
+
+#profile {
+    max-width: 100%;
+    
+}
+
+.Me h2{
+    font-weight: 700;
+    
+    color: black;
+}
+
+.Me p{
+    font-family: "Helvetica Neue", "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 2.2rem;
+    text-align: left;
+}
+
+/*
+#second.jumbotron{
+    background-color: #1E824C;
+    margin-top: 3.5rem;
+    padding: 4rem;
+    padding-bottom: 2rem;
+
+    
+}
+
+#second .container{
+    align-items: center; 
+    font-family: "Helvetica Neue";
+    font-size: 40px;
+    color: white;
+    /*padding-top: 1rem;
+    padding-bottom: 1rem;/*
+    padding: 0rem;
+}
+
+*/
+
+
+#second div{
+    padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 2rem;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+iframe {
+    margin: 0rem;
+    padding:0rem;
+}
+
+#second section{
+    padding: 0rem;
+}
+
+
+#third .container{
+    padding-top: 1rem;
+    padding-bottom: 4rem;
+    align-items: center;
+}
+
+em {
+    font-family: "Georgia";
+    font-weight: 600;
+}
+#opinion-title{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    
+}
+
+#opinion-title h2 a:link{
+    text-decoration: none;
+    
+}
+
+#opinion-title h2 a:visited{
+    text-decoration: none;
+    
+}
+#opinion-title h2 a:hover{
+    text-decoration: none;
+    
+}
+
+#opinion-title h2 a:active{
+    text-decoration: none;
+}
+
+
+/*#newspaper-logo {
+    height: 40%;
+    width: 40%;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    bottom: 7rem;    
+}*/
+
+.media-object {
+    height: 84.4;
+    width: 83.4px;
+}
+
+#fourth.jumbotron{
+    background-image: url("https://dl.dropboxusercontent.com/s/shunjrww0tvw05a/25707941580_209f603ad6_k.jpg?dl=0");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#fourth h2{
+    margin-top: 0rem;
+    padding-top: 0rem;
+}
+
+
+#facebook-link{
+    height: 120%;
+    width: 120%;
+}
+
+#twitter-link{
+    height: 100%;
+    width: 100%;
+}
+
+
